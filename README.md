@@ -36,7 +36,7 @@ src/
 ├── test/
 │   └── java/
 │       └── ua.foxminded.school.*            # Unit & integration tests
-
+```
 ## Features
 
 - Add / delete students
